@@ -1,0 +1,59 @@
+nav {
+    background-color: white;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: space-around;
+    text-decoration: none;
+    color: black;
+ }
+
+body {
+    background-color: rgb(242, 242, 248);
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.grid-container {
+    display:grid;
+}
+
+#logo {
+    height: 100px;
+}
+
+.mainPic {
+    width: 450px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: blue;
+    margin:10px;
+    padding:100px;
+}
+
+h1 {
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h2 {
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+    color: blue;
+    text-align: right;
+  }
+
+a {
+    font-size: x-large;
+}
+
+ol {
+    color:brown
+}
+
+ul {
+    color:rgb(210, 30, 195)
+}
